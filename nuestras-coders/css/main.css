@@ -1,1 +1,17 @@
-/* Inserta tu código aqui */
+body{
+    text-align: center;
+    margin: 15px;
+}
+
+h3{
+    text-align: center;
+}
+img_brillo{
+    width: 100%;
+    height: auto;
+    margin: 15px;
+}
+.ma{
+    margin: 15px;
+    left: 200px;
+}
