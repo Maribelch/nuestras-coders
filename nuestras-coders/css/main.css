@@ -1,17 +1,24 @@
-body{
-    text-align: center;
-    margin: 15px;
+div{
+    width: 800px;
+    height: 800px;
+}
+.m{
+    width:250px;
+    height: 250px;
+    display: inline-block;
 }
 
-h3{
-    text-align: center;
+img{
+    display:inline-block;    
 }
-img_brillo{
-    width: 100%;
-    height: auto;
-    margin: 15px;
+.p{
+    position: relative;
+    bottom: 25px;
+    color: #fff;
+    left: 80px;
 }
-.ma{
-    margin: 15px;
-    left: 200px;
+hr{
+    width: 50px;
+    border: 1px solid black;
+    margin-left: 5px;
 }
